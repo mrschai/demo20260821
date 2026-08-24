@@ -1,2 +1,2 @@
 def c:
-	return 'c'
+	return 'c1'
